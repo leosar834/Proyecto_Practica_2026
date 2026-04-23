@@ -6,6 +6,8 @@
 
 ## Autor/es: user:leosar834 email: leonardosarmientov834@gmail.com
 
+## Profesores:
+
 ## Definicion del problema: Actualmente muchos tallerres mecanicos administran sus turnos, clientes,reparaciones y stock de repuestos de forma manual, mediante cuadernos, planillas o mensajes informales. Esto genera desorganizacion, perdida de informacion, demoras en la atencion, errores en los turnos asignados y dificultad para llevar un control eficiente del negocio. Ademas, complica el seguimiento de trabajos realizados y la comunicacion con los clientes.
 
 ## Objetivo General: Desarrollar una aplicacion web de turnos y gestion integra para un taller mecanico que permita optimizar la administracion de clientes, vehiculos, reparaciones, agenda de turnos y recursos del negocio.
