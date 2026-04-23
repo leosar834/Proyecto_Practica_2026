@@ -1,7 +1,7 @@
-## Titulo del proyecto
+## Sistemas de turnos y gestion de un taller mecanico
 
-## Institucion:
+## Institucion: Instituto de Educacion Superior N°7 Populorum Progressio In.Te.La
 
-## Año
+## Año 2026
 
-## Autor/es:
+## Autor/es: user:leosar834 email: leonardosarmientov834@gmail.com
